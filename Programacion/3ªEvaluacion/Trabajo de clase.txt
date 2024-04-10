@@ -1,0 +1,30 @@
+ ----------
+|20/03/2024|
+ ----------
+-Clase Cuenta.
+
+ ----------
+|02/04/2024|
+ ----------
+
+ ----------
+|03/04/2024|
+ ----------
+-Ejercicio propuesto.
+-El ejercicio se basa en la clase libro, donde tenemos dos clase heredadas y una subheredada.
+
+ ----------
+|04/04/2024|
+ ----------
+
+ ----------
+|08/04/2024|
+ ----------
+-Haciendo los ejercicios de herencia del segundo paquete de propuestos.
+-Acabando el test donde hay que hacer el metodo de generaArea donde en algunas clase tenemos el valor del Area.
+
+ ----------
+|09/04/2024|
+ ----------
+-Paquete de la clase TiendaMascotas.
+

@@ -1,0 +1,30 @@
+ ----------
+|03/04/2024|
+ ----------
+-Tarea IPS 1º DAM.
+-ipscan dscargado.
+
+ ----------
+|04/04/2024|
+ ----------
+-Descargar VNC server.
+-Descargar TightVNC.
+
+ ----------
+|05/04/2024|
+ ----------
+-Descargar mRemoteNG.
+
+ ----------
+|08/04/2024|
+ ----------
+-Tarea de Acceso Remoto.
+-Practica entregada, pero al tener windows home no me puedo conectar desde escritorio remoto.
+-Para poder conectarte necesitas tener una version de windows 10 pro.
+
+ ----------
+|10/04/2024|
+ ----------
+-Descargamos ubuntu del enlace que nos proporciona en el classroom.
+
+

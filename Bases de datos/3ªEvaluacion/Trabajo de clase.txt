@@ -1,0 +1,12 @@
+ ----------
+|08/04/2024|
+ ----------
+-Haciendo ejercicios de Sakila del boletín.
+-Mando hacer los ejercicios del 21 al 24.
+-Hechos los 4 ejercicios, revisar el primero.
+
+ ----------
+|09/04/2024|
+ ----------
+-Mirar la consulta 122.
+-Cuando volvemos a incluir una tabla en sql, no podemos utilizar USING sino ON.
