@@ -19,8 +19,14 @@ public class Gatos extends Mascota{
                 + longitudDeSalto + ", color=" + color + "]";
     }
 
-    public static String sonido(){
+    public static String maullar(){
         return "Los gatos maúllan y ronronean";
+    }
+
+    public int pagoImpuestosMunicipales() {
+        int suma = super.pagoImpuestosMunicipales();
+        suma+=75;
+        return suma;
     }
     
 }

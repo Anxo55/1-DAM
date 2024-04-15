@@ -26,6 +26,10 @@ public class GatosPeloLargo extends Gatos{
                 + longitudDeSalto + ", color=" + color + ", tipogato=" + tipogato + "]";
     }
 
-    
+    public int pagoImpuestosMunicipales() {
+        int suma = super.pagoImpuestosMunicipales();
+        suma+=200;
+        return suma;
+    }
     
 }

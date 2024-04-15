@@ -2,20 +2,20 @@ package TiendaMascotas;
 
 public class GatosSinPelo extends Gatos{
 
-    enum tipoGato{ESFINGE, ELFO, DONSKOY}
+    enum tipoGato3{ESFINGE, ELFO, DONSKOY}
 
-    protected tipoGato tipogato;
+    protected tipoGato3 tipogato;
 
-    public GatosSinPelo(String nombre, int edad, String color, float altura, float longitudDeSalto, tipoGato tipogato) {
+    public GatosSinPelo(String nombre, int edad, String color, float altura, float longitudDeSalto, tipoGato3 tipogato) {
         super(nombre, edad, color, altura, longitudDeSalto);
-        this.tipogato = tipogato;
+        this.tipogato= tipogato;
     }
 
-    public tipoGato getTipogato() {
+    public tipoGato3 getTipogato() {
         return tipogato;
     }
 
-    public void setTipogato(tipoGato tipogato) {
+    public void setTipogato(tipoGato3 tipogato) {
         this.tipogato = tipogato;
     }
 
@@ -25,6 +25,10 @@ public class GatosSinPelo extends Gatos{
                 + longitudDeSalto + ", color=" + color + ", tipogato=" + tipogato + "]";
     }
 
-    
+    public int pagoImpuestosMunicipales() {
+        int suma = super.pagoImpuestosMunicipales();
+        suma+=50;
+        return suma;
+    }
     
 }

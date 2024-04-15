@@ -19,8 +19,14 @@ public class Perros extends Mascota{
                 + color + "]";
     }
 
-    public static String sonido() {
+    public static String ladrar() {
         return "Los perros ladran.";
+    }
+
+    public int pagoImpuestosMunicipales() {
+        int suma = super.pagoImpuestosMunicipales();
+        suma+=100;
+        return suma;
     }
     
 }

@@ -2,7 +2,7 @@ package TiendaMascotas;
 
 public class PerrosGrandes extends Perros{
 
-    enum razas{PASTORALEMAN, DOBERMAN, ROTWEILLER}
+    enum razas{PASTORALEMAN, DOBERMAN, ROTWEILLER, DALMATA, CHIHUAHUA, COLLIE}
 
     protected razas raza;
 
@@ -25,5 +25,10 @@ public class PerrosGrandes extends Perros{
                 + ", color=" + color + ", raza=" + raza + "]";
     }
 
+    public int pagoImpuestosMunicipales() {
+        int suma = super.pagoImpuestosMunicipales();
+        suma+=150;
+        return suma;
+    }
 
 }

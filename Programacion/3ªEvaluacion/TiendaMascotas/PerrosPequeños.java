@@ -2,20 +2,20 @@ package TiendaMascotas;
 
 public class PerrosPequeños extends Perros{
 
-    enum razas{CANICHE, YORKSHIRE_TERRIER, SCHNAUZER, CHIHUAHUA}
+    enum razas3{CANICHE, YORKSHIRE_TERRIER, SCHNAUZER, CHIHUAHUA}
 
-    protected razas raza;
+    protected razas3 raza;
 
-    public PerrosPequeños(String nombre, int edad, String color, float peso, boolean muerde, razas raza) {
+    public PerrosPequeños(String nombre, int edad, String color, float peso, boolean muerde, razas3 raza) {
         super(nombre, edad, color, peso, muerde);
         this.raza = raza;
     }
 
-    public razas getRaza() {
+    public razas3 getRaza() {
         return raza;
     }
 
-    public void setRaza(razas raza) {
+    public void setRaza(razas3 raza) {
         this.raza = raza;
     }
 
@@ -25,5 +25,10 @@ public class PerrosPequeños extends Perros{
                 + ", color=" + color + ", raza=" + raza + "]";
     }
 
+    public int pagoImpuestosMunicipales() {
+        int suma = super.pagoImpuestosMunicipales();
+        suma+=100;
+        return suma;
+    }
 
 }

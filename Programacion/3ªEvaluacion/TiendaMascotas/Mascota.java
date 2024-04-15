@@ -1,5 +1,7 @@
 package TiendaMascotas;
 
+
+
 public class Mascota {
 
     protected String nombre;
@@ -41,5 +43,8 @@ public class Mascota {
         return "Mascota [nombre=" + nombre + ", edad=" + edad + ", color=" + color + "]";
     }
 
+    public int pagoImpuestosMunicipales() {
+        return 50;
+    }
     
 }

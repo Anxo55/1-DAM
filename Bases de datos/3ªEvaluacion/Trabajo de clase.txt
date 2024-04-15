@@ -10,3 +10,20 @@
  ----------
 -Mirar la consulta 122.
 -Cuando volvemos a incluir una tabla en sql, no podemos utilizar USING sino ON.
+
+ ----------
+|11/04/2024|
+ ----------
+-Terminamos el boletin de sakila.
+-Revisar y volver a practicar con el boletin, sobre todo los ultimos donde utilizamps subconsultas.
+-Vemos el left join y el right join.
+-Inner Join.
+-Subido en el classroom varios enunciados para hacer de pratica de los left y right join.
+
+ ----------
+|15/04/2024|
+ ----------
+-Practica de left right Join.
+-Subida la teoria de los procedimientosd en el classroom.
+
+
