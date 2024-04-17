@@ -38,6 +38,19 @@
  ----------
 -Paquete nuevo que le llamamos Seleccion.
 
+ ----------
+|15/04/2024|
+ ----------
+-Acabanos el paquete de seleccion.
+-Ahora creamos el segundo paquete llamada seleccion2.
+-Acabar el testeo del paquete de Seleccion2.
+-Paquete de Universidad.
+
+ ----------
+|16/04/2024|
+ ----------
+-Entregado el testDeLaUniversidad con sus metodos y con el metodo de calcularMedia.
+-Cuando suba el sisguiente hacerlo para entregar.
 
 
 

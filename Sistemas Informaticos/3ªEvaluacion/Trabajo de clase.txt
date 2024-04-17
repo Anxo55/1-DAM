@@ -39,4 +39,18 @@
 -En el Trabajo conjunto se añaden 2 partes mas a mayores.
 -Terminar el trabajo T7.2 Compartir carpeta en red.
 
+ ----------
+|17/04/2024|
+ ----------
+-Vamos a empezar a usar Ubuntu.
+-Subidas las respuestas de meta.
+-Subida la unida 8 de linux-ubuntu.
+-wsl --install.
+-Comando wsl -l -v.
+
+UBUNTU:
+-Comando pwd.
+-El comando cd .. es para bajar de carpeta en la ruta que estés.
+-Comando tree
+-Comando ls.
 

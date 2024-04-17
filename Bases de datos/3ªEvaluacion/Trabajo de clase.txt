@@ -26,4 +26,18 @@
 -Practica de left right Join.
 -Subida la teoria de los procedimientosd en el classroom.
 
+ ----------
+|16/04/2024|
+ ----------
+-En el classroom nos subió una página donde podemos practicar consultas.
+-La pagina es SQL playground.
+-Hoy vemos vistas.
+-Scrip Vistas1 donde damos los primeros ejemplos.
+-Ahora nos sube un documento de practica para empezar con ello.
+-Nos subió la BBDD de jardineria con la que vamos a trabajar con las vistas.
+
+ ----------
+|17/04/2024|
+ ----------
+-Continuamos con las practicas de vistas.
 
