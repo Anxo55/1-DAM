@@ -53,4 +53,6 @@ UBUNTU:
 -El comando cd .. es para bajar de carpeta en la ruta que estés.
 -Comando tree
 -Comando ls.
-
+-Comando man man.
+-Comando whatis ls.
+-Comando whatis mkdir.

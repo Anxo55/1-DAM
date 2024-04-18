@@ -52,6 +52,12 @@
 -Entregado el testDeLaUniversidad con sus metodos y con el metodo de calcularMedia.
 -Cuando suba el sisguiente hacerlo para entregar.
 
+ ----------
+|17/04/2024|
+ ----------
+-Correccion del paquete de Animales.
+-Creamos el paquete de Aritmetica.
+
 
 
 

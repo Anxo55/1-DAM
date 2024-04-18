@@ -41,3 +41,9 @@
  ----------
 -Continuamos con las practicas de vistas.
 
+ ----------
+|18/04/2024|
+ ----------
+-Subió más pdfs acerca de los procedimientos y las funciones.
+-tambíen corrigió los ejercicios de vistas de la BBDD de jardinería.
+-Hacer un script con esos resultado para compararlos con los que hice en clase.

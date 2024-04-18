@@ -14,17 +14,14 @@ public class testAnimales {
         animal.add(new Perro());
 
         for(int i=0; i<animal.size(); i++) {
-            if(animal.get(i) instanceof Canidos)
-                ((Canidos) animal.get(i)).soyUnCanido();
-            if(animal.get(i) instanceof Felinos)
-                ((Felinos)animal.get(i)).soyUnFelino();
-                
-            System.out.println(animal.get(i).getNombreCientifico());
+            
+            System.out.println("Nombre: "+animal.get(i).getNombreCientifico());
             System.out.println("Sonido: "+animal.get(i).getSonido());
             System.out.println("Habitat: "+animal.get(i).getHabitat());
             System.out.println("Alimentos: "+animal.get(i).getAlimentos());
             System.out.println();
         }
+
         
     }
     

@@ -8,18 +8,13 @@ public abstract class Animal {
   protected String nombreCientifico;
 
   
-  public String getSonido() {
-    return sonido;
-  }
-  public String getAlimentos() {
-    return alimentos;
-  }
-  public String getHabitat() {
-    return habitat;
-  }
-  public String getNombreCientifico() {
-    return nombreCientifico;
-  }
+  public abstract String getSonido();
+
+  public abstract String getAlimentos();
+
+  public abstract String getHabitat();
+
+  public abstract String getNombreCientifico();
   
   
     
