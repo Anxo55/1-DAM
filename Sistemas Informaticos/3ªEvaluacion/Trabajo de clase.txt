@@ -56,3 +56,13 @@ UBUNTU:
 -Comando man man.
 -Comando whatis ls.
 -Comando whatis mkdir.
+
+ ----------
+|18/04/2024|
+ ----------
+-Instalar Ubuntu en la máquina virtual.
+-Va a entrar parte practica en el examen de Ubuntu.
+-Repasar comandos de ubuntu y la teoria.
+
+
+

@@ -58,6 +58,14 @@
 -Correccion del paquete de Animales.
 -Creamos el paquete de Aritmetica.
 
+ ----------
+|18/04/2024|
+ ----------
+-Correccion del paquete de Aritmetia.
+-Volver a ver el paquete para repetirlo, pero no se puede hacer de forma abstracta.
+-Paquete de ciclistas.
+-Ver los ciclos que subió de la clase ciclista y ponerme a hacer las herencias.
+-Revisar también el paquete del año anterior ya que pepe preguntó por el.
 
 
 

@@ -1,61 +1,81 @@
 package Aritmetica;
 
-public abstract class Numero {
+import java.util.Objects;
 
-    protected int valor;
+public class Numero {
 
-    public Numero(int valor) {
-        this.valor = valor;
-    }
-
-    public Numero() {
-        this.valor = 0;
-    }
-
-    public int getValor() {
-        return valor;
-    }
-
-    public void setValor(int valor) {
-        this.valor = valor;
-    }
-
-    @Override
-    public String toString() {
-        return "Numero [valor=" + valor + "]";
-    }
-
-    @Override
-    public int hashCode() {
-        final int prime = 31;
-        int result = 1;
-        result = prime * result + valor;
-        return result;
-    }
-
-    @Override
-    public boolean equals(Object obj) {
-        if (this == obj)
-            return true;
-        if (obj == null)
-            return false;
-        if (getClass() != obj.getClass())
-            return false;
-        Numero other = (Numero) obj;
-        if (valor != other.valor)
-            return false;
-        return true;
-    }
-
-    // metodos propios
-    public abstract Numero sumar(Numero num);
-
-    public abstract Numero restar(Numero num);
-
-    public abstract Numero multiplicar(Numero num);
-    
-    public abstract Numero dividir(Numero num);
+    protected double num;
+	
+	
+	public double getNum() {
+		return num;
+	}
+	public void setNum(double num) {
+		this.num = num;
+	}
+	public Numero(double n){
+		this.num = n;
+	}
+	public Numero() {
+		this.num = 0;
+	}
 
 
-    
-}
+	@Override
+	public String toString() {
+		return "numero [num=" + num + "]";
+	}
+
+
+	@Override
+	public int hashCode() {
+		return Objects.hash(num);
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Numero other = (Numero) obj;
+		return Double.doubleToLongBits(num) == Double.doubleToLongBits(other.num);
+	}
+	
+	
+	
+	public void sumar(Numero num) {
+		this.setNum(this.getNum() + num.getNum());
+		
+	}
+	
+	public void restar(Numero num) {
+		this.setNum(this.getNum()-num.getNum());
+	}
+	
+	public void dividir(Numero num) {
+		if(num.getNum()!=0)
+		this.setNum(this.getNum() / num.getNum());
+		else {
+			System.out.println("Operacion no valida");
+		}
+	}
+	
+	public void multiplicar(Numero num) {
+		this.setNum(this.getNum()*num.getNum());
+		
+	}
+
+
+	
+	}
+
+	
+
+
+
+
+
+
+
