@@ -64,5 +64,12 @@ UBUNTU:
 -Va a entrar parte practica en el examen de Ubuntu.
 -Repasar comandos de ubuntu y la teoria.
 
+ ----------
+|24/04/2024|
+ ----------
+-Varios comandos de Ubuntu.
+-nano p1.
+-ls -l.
+-control + c.
 
 

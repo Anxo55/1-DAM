@@ -67,6 +67,16 @@
 -Ver los ciclos que subió de la clase ciclista y ponerme a hacer las herencias.
 -Revisar también el paquete del año anterior ya que pepe preguntó por el.
 
+ ----------
+|22/04/2024|
+ ----------
+-Subida las clases del paquete de ciclistas.
+-En la nueva entrega tenemos que subir el test que le conviene al paquete de ciclistas.
 
-
+ ----------
+|24/04/2024|
+ ----------
+-Crear la clase carrera para subir en el classroom.
+-Tenemos que hacer el test bien para subirlo.
+-Pedir las clases del paquete para tenerlo y ver como funciona la herencia en cada clase.
 
