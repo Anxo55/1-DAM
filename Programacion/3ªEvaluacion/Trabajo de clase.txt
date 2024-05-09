@@ -80,3 +80,26 @@
 -Tenemos que hacer el test bien para subirlo.
 -Pedir las clases del paquete para tenerlo y ver como funciona la herencia en cada clase.
 
+ ----------
+|25/04/2024|
+ ----------
+-Seguramente entre en el examen el paquete de clase Ciclista, hay que pedir las clases completas para tenerlo.
+-Vemos un ejercicio Propuesto.
+-Creamos el paquete Medicina.
+
+ ----------
+|29/04/2024|
+ ----------
+-Practica de interfaz.
+
+ ----------
+|02/05/2024|
+ ----------
+-Haciendo la practica de Interfaz Multiple.
+
+ ----------
+|03/05/2024|
+ ----------
+-Entregadas las practicas de la interfaz y tambien el de los deportes de los partidos de futbol y baloncesto.
+-Hacer el paquete de peaje.
+
