@@ -103,3 +103,10 @@
 -Entregadas las practicas de la interfaz y tambien el de los deportes de los partidos de futbol y baloncesto.
 -Hacer el paquete de peaje.
 
+ ----------
+|09/05/2024|
+ ----------
+-Pep falto los dos primeros dias.
+-Hacer los paquetes que me faltan y hacer el nuevo.
+-Cambiar el paquete de carrera ciclista, por si entra de cara al examen.
+

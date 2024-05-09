@@ -108,8 +108,9 @@ UBUNTU:
 -Terminado el trabajo T8.1 Shell  #1.
 
  ----------
-|03/05/2024|
+|09/05/2024|
  ----------
-
+-Trabajos hechos, terminar el ultimo que falta opor hacer.
+-El de compartir la carpeta con windows.
 
 
