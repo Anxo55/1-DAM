@@ -108,8 +108,9 @@ UBUNTU:
 -Terminado el trabajo T8.1 Shell  #1.
 
  ----------
-|03/05/2024|
+|10/05/2024|
  ----------
-
+-Trabajos entregados, menos el del tema 8.2.
+-Subido un nuevo trabajo que se llama tema 8.3 Grep+pipers+tr.
 
 

@@ -101,3 +101,9 @@
 -Terminamos ya de corregir los primeros 15 ejercicios de funciones y procedimientos.
 -Nos mando seguir con los siguientes tras acabar los otros.
 
+ ----------
+|10/05/2024|
+ ----------
+-Corrigió mas ejercicios, y mando seguir con ellos.
+-Terminarlos para la semana que viene.
+
